@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1791912933751,
-  "appVersion": "6.9.95 (2026.10.06)",
+  "timestamp": 1791916731595,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -193,5 +193,6 @@
     "novelVolumes": true,
     "coReadBooks": true
   },
+  "source": "auto",
   "inProgress": true
 }
