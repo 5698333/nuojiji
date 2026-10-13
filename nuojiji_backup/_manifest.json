@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791917813428,
+  "timestamp": 1791925788453,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -116,7 +116,8 @@
   "chunkedTables": {
     "messages": 7,
     "ttsAudio": 12,
-    "imageStore": 2
+    "imageStore": 2,
+    "coReadComments": 1
   },
   "completedTables": {
     "characters": true,
@@ -191,7 +192,8 @@
     "novelChapters": true,
     "novelVolumes": true,
     "coReadBooks": true,
-    "stickerStore": true
+    "stickerStore": true,
+    "coReadSessions": true
   },
   "source": "auto",
   "inProgress": true
