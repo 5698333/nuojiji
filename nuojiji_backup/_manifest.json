@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791925932340,
+  "timestamp": 1791925939327,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -199,7 +199,8 @@
     "coReadTranslations": true,
     "studyTalks": true,
     "studyOutlines": true,
-    "studyQuizzes": true
+    "studyQuizzes": true,
+    "studyGoals": true
   },
   "source": "auto",
   "inProgress": true
